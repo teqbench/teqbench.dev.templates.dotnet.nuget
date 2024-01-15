@@ -14,7 +14,7 @@ Template for a NuGet solution/project. Update all following instances of `TeqBen
 - RootNamespace in TeqBench.Dev.Templates.DotNet.NuGet.csproj
 - AssemblyName in TeqBench.Dev.Templates.DotNet.NuGet.csproj
 
-Also have to update Project's settings.
+Also have to update repository's settings.
 
 - Add branch protect for the `main` branch.
     - Navigate to `Settings > Branches`.
