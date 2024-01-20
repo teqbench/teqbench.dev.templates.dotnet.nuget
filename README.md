@@ -4,12 +4,14 @@
 
 ## Overview
 
-Template for a NuGet solution/project. Update all following instances of `TeqBench.Dev.Templates.DotNet.NuGet`:
+Template for a NuGet solution/project. 
 
 > [!NOTE]
 > After cloning, remember to init the submodules. See [https://github.com/teqbench/teqbench.dev](https://github.com/teqbench/teqbench.dev) for more information.
 
 ### Update Template Names
+
+Update all following instances of `TeqBench.Dev.Templates.DotNet.NuGet`:
 
 - Solution name
     - TeqBench.Dev.Templates.DotNet.NuGet.sln
