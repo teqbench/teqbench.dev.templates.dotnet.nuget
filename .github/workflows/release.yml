@@ -36,5 +36,6 @@ jobs:
     with:
       release_type: ${{ github.event.inputs.release_type }}
       coverage_lower_boundary_override: 0
-      # Do NOT deploy anything from the sandbox to the Packages repository. 
+      # Do NOT deploy template to the Packages repository. Remove when create a repo
+      # from this template.
       deploy: false
